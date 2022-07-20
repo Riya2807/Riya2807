@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya2807&label=Profile%20views&color=0e75b6&style=flat" alt="riya2807" /> </p>
 
-<img align="right" alt="Loading" width="400" src="" />
+<!-- <img align="right" alt="Loading" width="400" src="" /> -->
 
 - 🔭 I’m currently working on [Dailygram](https://github.com/Riya2807/Dailygram-MERN-project)
 
