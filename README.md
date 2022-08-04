@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riya</h1>
+<h1 align="center">Hello 👋, I'm Riya</h1>
 <h3 align="center">An aspiring software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya2807&label=Profile%20views&color=0e75b6&style=flat" alt="riya2807" /> </p>
